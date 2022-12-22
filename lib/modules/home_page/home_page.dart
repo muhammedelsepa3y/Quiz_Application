@@ -15,7 +15,7 @@ body:Stack(
         Container(
       decoration: BoxDecoration(
         image: DecorationImage(
-          image: AssetImage("quiz.jpg"),
+          image: AssetImage("assets/quiz.jpg"),
           fit: BoxFit.cover,
         ),
       ),
